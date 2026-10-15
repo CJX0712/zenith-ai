@@ -1,5 +1,12 @@
 # ✦ StarForge — 世界顶级 AI 核心库
 
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/CJX0712/zenith-ai/blob/main/LICENSE) [![Language](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)](https://github.com/CJX0712/zenith-ai) [![Deps](https://img.shields.io/badge/dependencies-0-brightgreen)](https://github.com/CJX0712) [![Verified](https://img.shields.io/badge/invariants-verified-brightgreen)](https://github.com/CJX0712) [![Author](https://img.shields.io/badge/author-晨星-blueviolet)](https://github.com/CJX0712)
+
+</div>
+
+
 > 零依赖纯 JavaScript AI / ML 核心库。每条算法都站在世界顶级成果之上，并带**可独立交叉验证的数学不变量**。
 > 作者：**晨星 (MorningStar)** · License: MIT
 
